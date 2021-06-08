@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KingsDiscipl3
-- 👀 I’m interested in Software Engineering and Game Development.
-- 🌱 I’m currently learning HTML5 and Python. I have experience in the Unreal Engine and their blueprint system, and intermediate knowledge of C# and C++
-     I haven't really used Javascript since working with the Unity3D Engine.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I am focused on Software Engineering as a whole. 
+- 🌱 I’m currently learning HTML5, CSS, JavaScript and Python. I have experience in the Unreal Engine and their blueprint system, and intermediate knowledge of C# and C++. I hope to start spending some time on learning Kotlin and get into the mobile development sector, but my current living situation limits me to local or remote work for now and that means it may be smarter to focus on web development and get my feet into the door. Although I wouldn't pass to hastily on a mobile opportunity.
+- 💞️ I’m looking to collaborate on anything, really. I enjoy reading and writing code so I am interested in all kinds of projects.
 - 📫 How to reach me will be coming soon.
 
 <!---
